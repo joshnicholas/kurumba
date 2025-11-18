@@ -11,7 +11,7 @@ let eastCoastTime = date.toLocaleString('en-US', {   hour: "numeric",
 ```
 
 # Top stories
-Last updated ${eastCoastTime}
+<!-- Last updated ${eastCoastTime} -->
 
 
 ```js
